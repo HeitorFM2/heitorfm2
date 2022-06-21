@@ -30,10 +30,10 @@
 
 ### My networks 📱 
 
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-melegate-a0b6b922a/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/heitor_fm2/)
+
+<br>
 
 ![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=HeitorFM2&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorFM2&layout=compact&theme=dark)
