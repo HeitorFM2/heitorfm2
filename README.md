@@ -5,7 +5,7 @@
 ### A little about me 📕
 
 <ul>
-    <li> 🍀 I'm a Full Stack jr developer but I work more in the BackEnd 
+    <li> I'm a Full Stack jr developer but I work more in the BackEnd 
     <li> I am a systems development technician by SENAI 
 </ul>
 
