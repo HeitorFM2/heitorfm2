@@ -6,7 +6,8 @@
 
 <ul>
     <li> I'm a Full Stack jr developer but I work more in the BackEnd 
-    <li> I am a systems development technician by SENAI 
+    <li> I'm a systems development technician by SENAI 
+    <li> Currently I'm studying Systems and Analyst Development technician at FATEC Americana university 
 </ul>
 
 ### My Works Experience ⏰
