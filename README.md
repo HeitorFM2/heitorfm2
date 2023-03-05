@@ -12,7 +12,10 @@
 
 ### My Works Experience ⏰
 <ul>
-    <li> Trainee from 8SYS Desenvolvimento de sistemas LTDA. (03/2022 - Current)
+    <li> Trainee from 8SYS Desenvolvimento de sistemas LTDA. (03/2022 - 02/2023)
+</ul>
+<ul>
+    <li> Trainee from QYON Sistemas Inteligentes. (03/2023 - Current)
 </ul>
 
 ### My skills 💻
