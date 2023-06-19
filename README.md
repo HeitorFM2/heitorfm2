@@ -45,5 +45,4 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=HeitorFM2&show_icons=true&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorFM2&layout=compact&theme=dark)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeitorFM2&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeitorFM2r&hide=Html&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeitorFM2&theme=nord_dark)
