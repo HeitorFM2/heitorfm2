@@ -49,4 +49,4 @@
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeitorFM2&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeitorFM2r&hide=Html&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeitorFM2&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeitorFM2r&hide=Html&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeitorFM2&theme=nord_dark)
