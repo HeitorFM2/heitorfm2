@@ -13,7 +13,7 @@
 <h3>🌃 Experience</h3>
 <div>
     <ul>
-        <li> Jr. Developer from QYON Sistemas Inteligentes. (11/2023 - Currently)
+        <li> Backend Developer from QYON Sistemas Inteligentes. (11/2023 - Currently)
     </ul>
     <ul>
         <li> Trainee from QYON Sistemas Inteligentes. (03/2023 - 10/2023)
