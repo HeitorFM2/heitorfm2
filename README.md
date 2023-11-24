@@ -55,4 +55,4 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeitorFM2&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeitorFM2&theme=nord_dark)
+![](https://github-readme-stats.vercel.app/api?username=HeitorFM2&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only)     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeitorFM2&theme=nord_dark&exclude=vue,JavaScript)
