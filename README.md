@@ -13,13 +13,16 @@
 <h3>🌃 Experience</h3>
 <div>
     <ul>
-        <li> Backend Engineer from QYON Sistemas Inteligentes. (11/2023 - Currently)
+        <li> Backend Developer at Labsoft Tecnologia LTDA. (02/2024 - Currently)
     </ul>
     <ul>
-        <li> Trainee from QYON Sistemas Inteligentes. (03/2023 - 10/2023)
+        <li> Backend Developer at QYON Sistemas Inteligentes. (11/2023 - 02/2024)
     </ul>
     <ul>
-        <li> Trainee from 8SYS Desenvolvimento de sistemas LTDA. (03/2022 - 02/2023)
+        <li> Trainee at QYON Sistemas Inteligentes. (03/2023 - 10/2023)
+    </ul>
+    <ul>
+        <li> Trainee at 8SYS Desenvolvimento de sistemas LTDA. (03/2022 - 02/2023)
     </ul>
 </div>
 
