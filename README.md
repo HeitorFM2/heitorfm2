@@ -3,8 +3,8 @@
 <h3>✨ About me</h3>
 <div>
     <ul>
-        <li> 👩‍💻 I'm a backend developer
-        <li> 📕 I currently have a degree in systems analysis and development from Fatec Americana, and I'm a systems development technician from SENAI.
+        <li>👨‍💻 I'm a Backend Software Engineer</li>
+        <li>🎓 Graduated in Systems Analysis and Development from Fatec Americana, and Systems Development Technician from SENAI.</li>
     </ul>
 </div>
 
@@ -53,7 +53,6 @@
 
 <h3>🎖💻 Best Skills</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -67,5 +66,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/heitorfm_dev)
 
 ---
-
-![](https://github-readme-stats.vercel.app/api?username=HeitorFM2&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only)     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeitorFM2&theme=nord_dark&exclude=vue,JavaScript)
