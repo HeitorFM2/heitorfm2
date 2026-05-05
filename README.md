@@ -13,7 +13,7 @@
 <h3>🌃 Experience</h3>
 <div>
     <ul>
-        <li> Backend Developer at Labsoft Tecnologia LTDA. (02/2024 - Currently)
+        <li> Software Engineer at Confience (formerly Labsoft Tecnologia LTDA.) (02/2024 - Currently)</li>
     </ul>
     <ul>
         <li> Backend Developer at QYON Sistemas Inteligentes. (11/2023 - 02/2024)
