@@ -1,68 +1,157 @@
 ## Hello guys! I'm Heitor! 😄✌
 
-<h3>✨ About me</h3>
-<div>
-    <ul>
-        <li>👨‍💻 I'm a Backend Software Engineer</li>
-        <li>🎓 Graduated in Systems Analysis and Development from Fatec Americana, and Systems Development Technician from SENAI.</li>
-    </ul>
-</div>
+<h3>
+Software Engineer focused on scalable architectures, distributed systems and high-performance APIs.
+</h3>
+
+<p>
+I'm passionate about backend development, software architecture and scalable applications.
+
+Currently working with enterprise systems, APIs and distributed architectures using .NET, Java and cloud-native technologies.
+</p>
+
+---
+
+<h3>🚀 About Me</h3>
+
+<ul>
+    <li>👨‍💻 Backend Software Engineer</li>
+    <li>🏗️ Focused on scalable systems and clean architectures</li>
+    <li>☁️ Experience with cloud and containerized applications</li>
+    <li>🎓 Graduated in Systems Analysis and Development at Fatec Americana</li>
+    <li>🎓 Systems Development Technician at SENAI</li>
+</ul>
 
 ---
 
 <h3>🌃 Experience</h3>
-<div>
-    <ul>
-        <li> Software Engineer at Confience (formerly Labsoft Tecnologia LTDA.) (02/2024 - Currently)</li>
-    </ul>
-    <ul>
-        <li> Backend Developer at QYON Sistemas Inteligentes. (11/2023 - 02/2024)
-    </ul>
-    <ul>
-        <li> Trainee at QYON Sistemas Inteligentes. (03/2023 - 10/2023)
-    </ul>
-    <ul>
-        <li> Trainee at 8SYS Desenvolvimento de sistemas LTDA. (03/2022 - 02/2023)
-    </ul>
-</div>
+
+<ul>
+    <li>
+        <strong>Software Engineer — Confience</strong><br>
+        📅 02/2024 - Present
+    </li>
+</ul>
+
+<ul>
+    <li>
+        <strong>Backend Developer — QYON Sistemas Inteligentes</strong><br>
+        📅 11/2023 - 02/2024
+    </li>
+</ul>
+
+<ul>
+    <li>
+        <strong>Trainee — QYON Sistemas Inteligentes</strong><br>
+        📅 03/2023 - 10/2023
+    </li>
+</ul>
+
+<ul>
+    <li>
+        <strong>Trainee — 8SYS Desenvolvimento de Sistemas LTDA.</strong><br>
+        📅 03/2022 - 02/2023
+    </li>
+</ul>
 
 ---
 
-<h3>💻 Skills</h3>
+<h3>🏗️ Architecture & Concepts</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<ul>
+    <li>Clean Architecture</li>
+    <li>Domain-Driven Design (DDD)</li>
+    <li>SOLID Principles</li>
+    <li>Microservices</li>
+    <li>Event-Driven Architecture</li>
+    <li>REST APIs</li>
+    <li>Messaging with RabbitMQ</li>
+    <li>Unit Testing</li>
+    <li>CI/CD Pipelines</li>
+    <li>Containerized Applications</li>
+    <li>Scalable Systems Design</li>
+</ul>
 
 ---
 
-<h3>🎖💻 Best Skills</h3>
+<h3>💻 Main Stack</h3>
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<h4>Backend</h4>
+
+<p>
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-E0234E?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
+<h4>Messaging & Infrastructure</h4>
+
+<p>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+<h4>Cloud</h4>
+
+<p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+<h4>Databases</h4>
+
+<p>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-<h3>📱Networks</h3> 
+<h3>🚀 Featured Project</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-melegate-a0b6b922a/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/heitorfm_dev)
+<h4>AskFlow.API</h4>
+
+<p>
+Backend for a social platform built with modern software architecture concepts.
+</p>
+
+<ul>
+    <li>ASP.NET Core</li>
+    <li>Clean Architecture</li>
+    <li>Entity Framework Core</li>
+    <li>JWT Authentication</li>
+    <li>Docker Support</li>
+    <li>Modular Structure</li>
+    <li>RESTful APIs</li>
+</ul>
+
+<p>
+🔗 Repository:<br>
+<a href="https://github.com/HeitorFM2/AskFlow.API">
+https://github.com/HeitorFM2/AskFlow.API
+</a>
+</p>
 
 ---
+
+<h3>📱 Connect with me</h3>
+
+<p>
+    <a href="https://www.linkedin.com/in/heitor-melegate-a0b6b922a/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+
+   <a href="https://www.instagram.com/heitorfm_dev">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+</p>
+
+---
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=HeitorFM2&color=blueviolet&style=for-the-badge"/>
+</p>
